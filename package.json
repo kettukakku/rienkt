@@ -4,7 +4,7 @@
   "description": "A porfolio featuring a collection of writing samples by author, Rien K-T.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-phantom.git"
+    "url": "https://github.com/kettukakku/rienkt"
   },
   "author": {
     "name": "Darien Kirst",
