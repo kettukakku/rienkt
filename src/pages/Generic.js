@@ -6,7 +6,7 @@ import pic1 from '../assets/images/01.jpg';
 
 const IndexPage = () => (
   <Layout>
-  <SEO title="Story 1" />
+  <SEO title="Stonefeast" description="A story of a guy who feasts on stone. Yo this fucking thing made me lose a writing contest. Bane of my existance." />
     <div id="main">
       <div className="inner">
         <h1>Stonefeast</h1>
