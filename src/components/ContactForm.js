@@ -2,7 +2,7 @@ import React from 'react';
 export default function ContactForm() {
   return (
     <section>
-      <h2>Get in touch</h2>
+      <h2>Contact</h2>
       <form method="post" action="#">
         <div className="fields">
           <div className="field half">

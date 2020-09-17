@@ -22,9 +22,15 @@ export default function Footer() {
           </ul>
         </section>
         <ul className="copyright">
-          <li>&copy; Phantom. All rights reserved</li>
+          <li>&copy; Rien K-T. All rights reserved</li>
+          <li>
+            Build: <a href="https://www.gatsbyjs.com/">Gatsby</a>
+          </li>
           <li>
             Design: <a href="http://html5up.net">HTML5 UP</a>
+          </li>
+          <li>
+            Images: <a href="https://unsplash.com/">Unsplash</a>
           </li>
         </ul>
       </div>

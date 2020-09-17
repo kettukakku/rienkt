@@ -4,6 +4,12 @@ module.exports = {
   pathPrefix: config.pathPrefix,
   siteMetadata: {
     title: config.siteTitle,
+    author: {
+      name: `Rien K-T`,
+      summary: `Freelance ghostwriter and content writer.`,
+    },
+    description: `A collection of writing samples by author Rien K-T.`,
+    siteUrl: `https://www.rienkt.com/`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
