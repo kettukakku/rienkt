@@ -8,11 +8,17 @@ const IndexPage = () => (
   <Layout>
   <SEO title="Stonefeast" description="A story of a guy who feasts on stone. Yo this fucking thing made me lose a writing contest. Bane of my existance." />
     <div id="main">
-      <div className="inner">
-        <h1>Stonefeast</h1>
-        <span className="image main">
-          <img src={pic1} alt="A guy trying to understand a thing." />
-        </span>
+    <div className="inner">
+    <header>
+    <h1>Stonefeast</h1>
+    </header>
+      <section>
+        <div className="box alt">
+						<div className="row gtr-uniform">
+							<div className="col-12"><span className="image fit"><img src={pic1} alt="" /></span></div>
+						</div>
+          </div>
+        <div className="storyText">
         <p>
           Sparks flew from the rails; red embers sizzled the dry spring grass and whipped against the platform’s stones. Crowds of buttoned twill coats and flat-topped caps halted. Steam billowed high towards the midday sun and fell onto rusted metal. And at once, the locomotive came to a grinding halt.
         </p>
@@ -83,7 +89,9 @@ const IndexPage = () => (
         The boy laughed to himself as he collected the bronze pieces. Though, his smile faded as he looked to the girl. Her arms were crossed tight and her foot tapped like a beating drum. <i>“I’ll be getting an earful after this.”</i>
         </p>
         <hr />
-      </div>
+        </div>
+      </section>
+    </div>
     </div>
   </Layout>
 );

@@ -9,12 +9,6 @@ import pic3 from '../assets/images/03.jpg';
 import pic4 from '../assets/images/04.jpg';
 import pic5 from '../assets/images/05.jpg';
 import pic6 from '../assets/images/06.jpg';
-import pic7 from '../assets/images/07.jpg';
-import pic8 from '../assets/images/08.jpg';
-import pic9 from '../assets/images/09.jpg';
-import pic10 from '../assets/images/10.jpg';
-import pic11 from '../assets/images/11.jpg';
-import pic12 from '../assets/images/12.jpg';
 
 import { Link } from 'gatsby';
 
@@ -104,90 +98,6 @@ const IndexPage = () => (
             </span>
             <Link to="/Generic">
               <h2>Veroeros</h2>
-              <div className="content">
-                <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
-                </p>
-              </div>
-            </Link>
-          </article>
-          <article className="style2">
-            <span className="image">
-              <img src={pic7} alt="" />
-            </span>
-            <Link to="/Generic">
-              <h2>Ipsum</h2>
-              <div className="content">
-                <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
-                </p>
-              </div>
-            </Link>
-          </article>
-          <article className="style3">
-            <span className="image">
-              <img src={pic8} alt="" />
-            </span>
-            <Link to="/Generic">
-              <h2>Dolor</h2>
-              <div className="content">
-                <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
-                </p>
-              </div>
-            </Link>
-          </article>
-          <article className="style1">
-            <span className="image">
-              <img src={pic9} alt="" />
-            </span>
-            <Link to="/Generic">
-              <h2>Nullam</h2>
-              <div className="content">
-                <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
-                </p>
-              </div>
-            </Link>
-          </article>
-          <article className="style5">
-            <span className="image">
-              <img src={pic10} alt="" />
-            </span>
-            <Link to="/Generic">
-              <h2>Ultricies</h2>
-              <div className="content">
-                <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
-                </p>
-              </div>
-            </Link>
-          </article>
-          <article className="style6">
-            <span className="image">
-              <img src={pic11} alt="" />
-            </span>
-            <Link to="/Generic">
-              <h2>Dictum</h2>
-              <div className="content">
-                <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
-                </p>
-              </div>
-            </Link>
-          </article>
-          <article className="style4">
-            <span className="image">
-              <img src={pic12} alt="" />
-            </span>
-            <Link to="/Generic">
-              <h2>Pretium</h2>
               <div className="content">
                 <p>
                   Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
