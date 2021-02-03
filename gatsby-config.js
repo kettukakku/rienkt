@@ -6,7 +6,7 @@ module.exports = {
     title: config.siteTitle,
     author: {
       name: `Rien K-T`,
-      summary: `Freelance ghostwriter and content writer.`,
+      summary: `Freelance writer & illustrator`,
     },
     description: `A collection of writing samples by author Rien K-T.`,
     siteUrl: `https://www.rienkt.com/`,

@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.svg',
   pathPrefix: `/gatsby-rienkt-portfolio`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Rien K-T',
-  subHeading: 'Freelance ghostwriter and content writer',
+  subHeading: 'Freelance writer & illustrator',
   // social
   socialLinks: [
     {

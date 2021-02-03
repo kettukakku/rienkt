@@ -11,4 +11,4 @@ Extra Components: [gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-start
 
 ## Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/43a32141-3752-45b7-9ad4-1222aaa6019c/deploy-status)](https://app.netlify.com/sites/serene-knuth-bb9350/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/43a32141-3752-45b7-9ad4-1222aaa6019c/deploy-status)](https://rienkt.com)

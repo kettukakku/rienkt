@@ -25,14 +25,14 @@
 				'border-color #{_duration(transition)} ease-in-out'
 			));
 			background-color: transparent;
-			border: solid 1px _palette(border);
-			border-radius: _size(border-radius);
 			width: 2.65em;
 			height: 2.65em;
 			display: inline-block;
 			text-align: center;
 			line-height: 2.65em;
 			color: inherit;
+			border: solid 1px _palette(border);
+			border-radius: _size(border-radius);
 
 			&:before {
 				font-size: 1.1em;
