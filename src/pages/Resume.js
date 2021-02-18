@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Layout from '../components/Layout';
-import pic1 from '../assets/images/01.jpg';
+import pic1 from '../assets/images/rien-avatar2.png';
 
 import SEO from "../components/Seo"
 import { Link } from 'gatsby';
@@ -16,8 +16,9 @@ const ResumePage = () => (
 		<h1>Darien Aris Kirst</h1><h2>Freelance Writer & Illustrator</h2>
 		</div> 
 		<div className="resumeAbout">
-		<p>I was born in Vallejo, California, lived for several years in Luleå, Sweden, and am now residing outside of Philadelphia, Pennsylvania. Growing up, my passions were music and film which lead to my degree in Video Production. While living in a new country and working with a branding team, I came to learn so much more about myself and the world around me. The ability to paint stories whether through words or drawings is what motivates me to keep improving myself.</p>
+		<p>Possessing a voice to speak and tell thoughts often locked away— writing has always been a source of comfort for me. And while it’s useful to have a means of communicative clarity, I’ve always been drawn to fiction. To take a moment to escape real life and get lost in somewhere far beyond has always brought me joy. What brings me even more happiness, however, is to share those worlds with others and to give everyone the opportunity to read the words often trapped within one’s own mind. </p>
 		</div>
+		<br/><br/>
 		<br/><br/>
 		<h3>Experience</h3>
 		<Link to="https://tromb.com/">MNMT Crew (acquired by Tromb) — Assistant / Organisor</Link>

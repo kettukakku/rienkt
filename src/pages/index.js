@@ -27,11 +27,11 @@ const IndexPage = () => (
             <span className="image">
               <img src={pic1} alt="" />
             </span>
-            <Link to="/Generic">
+            <Link to="/Stonefeast">
               <h2>Stonefeast</h2>
               <div className="content">
                 <p>
-                  This is just a formatting test. I ain't actually going to use Stonefeast on the finished site.
+                A steampunk retelling of ‘Pojken som åt ikapp med trollet’.
                 </p>
               </div>
             </Link>
@@ -40,12 +40,11 @@ const IndexPage = () => (
             <span className="image">
               <img src={pic2} alt="" />
             </span>
-            <Link to="/Generic">
-              <h2>Lorem</h2>
+            <Link to="/2am">
+              <h2>2 A.M. Visitor</h2>
               <div className="content">
                 <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
+                A woman hears a knock in the middle of the night. What greets her brings both joy and pain.
                 </p>
               </div>
             </Link>
@@ -54,12 +53,11 @@ const IndexPage = () => (
             <span className="image">
               <img src={pic3} alt="" />
             </span>
-            <Link to="/Generic">
-              <h2>Feugiat</h2>
+            <Link to="/BesidetheWaves">
+              <h2>Beside the Waves</h2>
               <div className="content">
                 <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
+                With only a message in a bottle to provide hope, two girls battle a world in ruin.
                 </p>
               </div>
             </Link>
@@ -68,12 +66,11 @@ const IndexPage = () => (
             <span className="image">
               <img src={pic4} alt="" />
             </span>
-            <Link to="/Generic">
-              <h2>Tempus</h2>
+            <Link to="/Signs">
+              <h2>Signs in the Sky</h2>
               <div className="content">
                 <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
+                Horoscopes are taken as gospel, but one man defies what the stars fortell.
                 </p>
               </div>
             </Link>
@@ -82,12 +79,11 @@ const IndexPage = () => (
             <span className="image">
               <img src={pic5} alt="" />
             </span>
-            <Link to="/Generic">
-              <h2>Aliquam</h2>
+            <Link to="/Lands">
+              <h2>Lands Above and Below</h2>
               <div className="content">
                 <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
+                The Gods bring more grief than glory; it's up to the people to stand above.
                 </p>
               </div>
             </Link>
@@ -96,12 +92,11 @@ const IndexPage = () => (
             <span className="image">
               <img src={pic6} alt="" />
             </span>
-            <Link to="/Generic">
-              <h2>Veroeros</h2>
+            <Link to="/Transference">
+              <h2>Transference</h2>
               <div className="content">
                 <p>
-                  Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros
-                  et feugiat.
+                Cybernetic visitors from the stars beyond come not bearing their own faith but to learn the ways of the Wikreet.
                 </p>
               </div>
             </Link>
